@@ -19,7 +19,7 @@ Also every button possess vibration and sounds
 
 ![ScreenShot of the Play Button](https://github.com/taqnar/Images/blob/master/TicTacToe/2.jpg)
 
-#<h4>Player Name</h4>
+<h4>Player Name</h4>
 In this screen player can add their names 
 By default the player name will be set as PLAYER 1 and PLAYER 2
 and the wooden arrow denotes go to the game
@@ -29,7 +29,7 @@ Also every button possess vibration and sounds
 
 ![ScreenShot of the Play Button](https://github.com/taqnar/Images/blob/master/TicTacToe/4.jpg)
 
-#<h4>The Game Interface</h4>
+<h4>The Game Interface</h4>
 Here is playing area 
 The players are denoted by Coloured Arrows and their marks 'x' or 'o' are tracked by Coloured Arrows
 Also the win ,Draw Conditions are made as toast
@@ -38,6 +38,9 @@ player can reset their score using the reset button provided at the top of he sc
 ![ScreenShot of the Play Button](https://github.com/taqnar/Images/blob/master/TicTacToe/5.jpg)
 
 ![ScreenShot of the Play Button](https://github.com/taqnar/Images/blob/master/TicTacToe/6.jpg)
+
+#Thanks
+Thankyou for reading and for your support
 
 
 
