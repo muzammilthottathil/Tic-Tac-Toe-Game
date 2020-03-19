@@ -10,6 +10,7 @@ After Opening the Android Studio just import this as a project from the downlode
 <h4>Splash Screen</h4>
 This screen opens for 3 sec when we open the app
 ![ScreenShot of the Splash Screen](https://github.com/taqnar/Images/blob/master/TicTacToe/1.jpg)
+![ScreenShot of the Splash Screen](https://raw.githubusercontent.com/taqnar/Images/blob/master/TicTacToe/1.jpg)
 
 <h4>Entry Screen</h4>
 This screen after the splash screen 
