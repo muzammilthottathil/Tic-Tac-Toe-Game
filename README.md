@@ -7,12 +7,11 @@ then unzip the file
 After Opening the Android Studio just import this as a project from the downloded folder 
 
 # Screenshots of the TicTacToe Game 
-<h4>Splash Screen</h4>
+# <h4>Splash Screen</h4>
 This screen opens for 3 sec when we open the app
 ![ScreenShot of the Splash Screen](https://github.com/taqnar/Images/blob/master/TicTacToe/1.jpg)
-![ScreenShot of the Splash Screen](https://raw.githubusercontent.com/taqnar/Images/blob/master/TicTacToe/1.jpg)
 
-<h4>Entry Screen</h4>
+# <h4>Entry Screen</h4>
 This screen after the splash screen 
 play button in this redirect to the game
 Also every button possess vibration and sounds
