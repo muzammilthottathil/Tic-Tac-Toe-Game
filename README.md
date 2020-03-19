@@ -39,7 +39,7 @@ player can reset their score using the reset button provided at the top of he sc
 
 ![ScreenShot of the Play Button](https://github.com/taqnar/Images/blob/master/TicTacToe/6.jpg)
 
-#Thanks
+# Thanks
 Thankyou for reading and for your support
 
 
